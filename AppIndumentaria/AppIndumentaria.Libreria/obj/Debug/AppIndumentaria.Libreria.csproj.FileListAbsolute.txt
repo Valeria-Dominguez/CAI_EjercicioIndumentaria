@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\bin\Debug\AppIndumentaria.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\bin\Debug\AppIndumentaria.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\obj\Debug\AppIndumentaria.Libreria.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\obj\Debug\AppIndumentaria.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\obj\Debug\AppIndumentaria.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Libreria\obj\Debug\AppIndumentaria.Libreria.pdb

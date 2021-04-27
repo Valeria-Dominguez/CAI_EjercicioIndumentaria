@@ -1,0 +1,10 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\bin\Debug\AppIndumentaria.Console.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\bin\Debug\AppIndumentaria.Console.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\bin\Debug\AppIndumentaria.Console.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\bin\Debug\AppIndumentaria.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\bin\Debug\AppIndumentaria.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\obj\Debug\AppIndumentaria.Console.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\obj\Debug\AppIndumentaria.Console.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\obj\Debug\AppIndumentaria.Console.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\obj\Debug\AppIndumentaria.Console.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppIndumentaria\AppIndumentaria.Console\obj\Debug\AppIndumentaria.Console.pdb
